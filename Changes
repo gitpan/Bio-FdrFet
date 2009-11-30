@@ -1,0 +1,9 @@
+Revision history for Perl extension Bio::FdrFet.
+
+0.02  Thu Nov 12 09:51:30 2009
+	- original version; created by h2xs 1.23 with options
+		--omit-autoload --omit-XS --name=Bio::FdrFet --compat-version=5.8.0
+
+0.01  Tue Oct 27 15:47:07 2009
+	- original version; created by h2xs 1.23 with options
+		--omit-autoload --omit-XS --name=FdrFet
