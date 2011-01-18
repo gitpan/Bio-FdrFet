@@ -26,7 +26,7 @@ our @EXPORT = qw(
 	
 );
 
-our $VERSION = '0.03';
+our $VERSION = '0.04';
 
 1;
 
@@ -576,8 +576,8 @@ sub _fdr {
     my ($qlevel, $pvals) = @_;
     my $i=1;
     my $count=0;
-    map { $count++ if (defined $_ and
-		       $_ <= $qlevel * $i++ / $self->{GENE_COUNT}) } @$pvals; # / ) }; Fix Emacs cperl confusion.
+    map { $count = ($i - 1) if (defined $_ and
+				$_ <= $qlevel * $i++ / $self->{GENE_COUNT}) } @$pvals; # / ) }; Fix Emacs cperl confusion.
     return $count;
 }
 
@@ -1028,6 +1028,12 @@ The FDR FET paper included with the source code.
  Ruiru Ji <ruiru.ji@bms.com>
  Karl-Heinz Ott <karl-heinz.ott@bms.com>
  Roumyana Yordanova <roumyana.yordanova@bms.com>
+
+=head1 ACKNOWLEDGEMENT
+
+We thank Douglas B. Craig, Division of Clinical Pharmacology and Toxicology,
+Children's Hospital of Michigan, Detroit, MI for finding a correcting a bug in the
+FDR implementation.
 
 =head1 COPYRIGHT AND LICENSE
 

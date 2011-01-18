@@ -188,17 +188,17 @@ GO:0005789 	 endoplasmic reticulum membrane 	6.93	2.13:71:1012:10422:427	79956
 GO:0005789 	 endoplasmic reticulum membrane 	6.93	2.13:71:1012:10422:427	10282
 GO:0005789 	 endoplasmic reticulum membrane 	6.93	2.13:71:1012:10422:427	51141
 GO:0005789 	 endoplasmic reticulum membrane 	6.93	2.13:71:1012:10422:427	1739
-GO:0004812 	 aminoacyl-tRNA ligase activity 	10.24	22.78:11:227:11207:36	8565
-GO:0004812 	 aminoacyl-tRNA ligase activity 	10.24	22.78:11:227:11207:36	6301
-GO:0004812 	 aminoacyl-tRNA ligase activity 	10.24	22.78:11:227:11207:36	4141
-GO:0004812 	 aminoacyl-tRNA ligase activity 	10.24	22.78:11:227:11207:36	6897
-GO:0004812 	 aminoacyl-tRNA ligase activity 	10.24	22.78:11:227:11207:36	833
-GO:0004812 	 aminoacyl-tRNA ligase activity 	10.24	22.78:11:227:11207:36	2617
-GO:0004812 	 aminoacyl-tRNA ligase activity 	10.24	22.78:11:227:11207:36	2058
-GO:0004812 	 aminoacyl-tRNA ligase activity 	10.24	22.78:11:227:11207:36	4677
-GO:0004812 	 aminoacyl-tRNA ligase activity 	10.24	22.78:11:227:11207:36	79731
-GO:0004812 	 aminoacyl-tRNA ligase activity 	10.24	22.78:11:227:11207:36	16
-GO:0004812 	 aminoacyl-tRNA ligase activity 	10.24	22.78:11:227:11207:36	7453
+GO:0004812 	 aminoacyl-tRNA ligase activity 	10.18	22.46:11:230:11204:36	8565
+GO:0004812 	 aminoacyl-tRNA ligase activity 	10.18	22.46:11:230:11204:36	6301
+GO:0004812 	 aminoacyl-tRNA ligase activity 	10.18	22.46:11:230:11204:36	4141
+GO:0004812 	 aminoacyl-tRNA ligase activity 	10.18	22.46:11:230:11204:36	6897
+GO:0004812 	 aminoacyl-tRNA ligase activity 	10.18	22.46:11:230:11204:36	833
+GO:0004812 	 aminoacyl-tRNA ligase activity 	10.18	22.46:11:230:11204:36	2617
+GO:0004812 	 aminoacyl-tRNA ligase activity 	10.18	22.46:11:230:11204:36	2058
+GO:0004812 	 aminoacyl-tRNA ligase activity 	10.18	22.46:11:230:11204:36	4677
+GO:0004812 	 aminoacyl-tRNA ligase activity 	10.18	22.46:11:230:11204:36	79731
+GO:0004812 	 aminoacyl-tRNA ligase activity 	10.18	22.46:11:230:11204:36	16
+GO:0004812 	 aminoacyl-tRNA ligase activity 	10.18	22.46:11:230:11204:36	7453
 GO:0006418 	 tRNA aminoacylation for protein translation 	9.86	32.21:9:135:11299:34	8565
 GO:0006418 	 tRNA aminoacylation for protein translation 	9.86	32.21:9:135:11299:34	6301
 GO:0006418 	 tRNA aminoacylation for protein translation 	9.86	32.21:9:135:11299:34	4141
