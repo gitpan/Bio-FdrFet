@@ -4,7 +4,8 @@ use ExtUtils::MakeMaker;
 # the contents of the Makefile that is written.
 WriteMakefile(NAME              => 'Bio::FdrFet',
 	      VERSION_FROM      => 'lib/Bio/FdrFet.pm', # finds $VERSION
-	      PREREQ_PM         => { "Inline" => 0.45}, # e.g., Module::Name => 1.1
+	      PREREQ_PM         => { "Inline" => 0.45,
+	                             "Inline::C" => 0}, # e.g., Module::Name => 1.1
 	      EXE_FILES         => [ 'fdr-fet.pl' ],
 	      ($] >= 5.005 ?     ## Add these new keywords supported since 5.005
 	       (ABSTRACT_FROM  => 'lib/Bio/FdrFet.pm', # retrieve abstract from module
